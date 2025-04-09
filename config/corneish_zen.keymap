@@ -8,7 +8,7 @@
         &kp LGUI LH RH &smart_mouse                                            \
     )
 
-#include "zmk-helpers/key-labels/eyelash42.h"
+#include "keymap.h"
 #include "base.keymap"
 
 /{ chosen { zmk,physical-layout = &foostan_corne_5col_layout; }; };
