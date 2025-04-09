@@ -12,7 +12,7 @@
 
 #include "zmk-helpers/helper.h"
 // Source desired key-position labels
-#include "zmk-helpers/key-labels/eyelash42.h"
+#include "keymap.h"
 #include "zmk-helpers/unicode-chars/greek.dtsi"
 #include "zmk-helpers/unicode-chars/german.dtsi"
 
