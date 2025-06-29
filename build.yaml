@@ -20,7 +20,7 @@ include:
 #  - board: glove80_rh
   - board: eyelash42_left
   - board: eyelash42_right
-#  - board: nice_nano_v2
-#    shield: eyelash42_left
-#  - board: nice_nano_v2
-#    shield: eyelash42_right
+  - board: nice_nano_v2
+    shield: eyelash42_lh
+  - board: nice_nano_v2
+    shield: eyelash42_rh
